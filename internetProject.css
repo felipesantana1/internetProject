@@ -1,0 +1,170 @@
+/* * {
+    
+    height: 0px;
+    width: auto; */
+    
+#wholeBody {        
+    
+    max-height: 600px;
+    max-width: 920px;
+    background: #fbf8f8;
+        
+}
+#header {
+            
+    height: 150px;
+    width: auto;
+    background-color: #FDF7F7;
+               
+}
+#globePic {
+            
+    height: 80px;
+    width: 80px;
+            
+}
+            
+#leftBar {
+            
+    height: 700px;
+    width: 193px;
+            
+}
+#largeBox {
+            
+    width: 729px;
+    height: 700px;
+    position: relative;
+    left: 193px;
+    bottom: 716px; 
+            
+}
+#theInter {
+            
+    display: inline;
+    font-size: 30px;
+        
+}
+#home{
+
+    text-align: right;    
+    font-size: 15px;
+    position: relative;
+    bottom: 30px;
+
+
+}
+#wwWeb {
+            
+    background-color: #9393e6;
+                
+}
+#matrixPic{
+            
+    height: 310px;
+    width: 200px;
+            
+            
+}
+#ninjaPic {
+        
+    height: 100px;
+    width: 90px;
+    position: relative;
+    bottom: 160px;
+    left: 45px;
+            
+}
+#leftWords {
+        
+    text-align: left;
+        
+}
+#serverPicture {
+        
+    height: 88px;
+    width: 220px;
+    margin-left: 200px;
+        
+}
+.list{
+        
+    font-size: 15px;
+        
+}
+#htmlPicture {
+        
+    height: 100px;
+    width: 70px;
+    margin-left: 190px;
+        
+}
+#wordsInPic{
+        
+    font-size: 30px;
+    color: white;
+    position:relative;
+    top: 180px;
+    left:10px;
+    font-family: monospace;
+        
+}
+#button {
+        
+    position: relative;
+    bottom: 140px;
+    left: 15px;
+    width: 150px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 20px;
+        
+}
+.topButton {
+        
+    width: 150px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+        
+}
+#leftPicture {
+        
+    position: relative;
+    bottom: 9em   
+        
+}
+topHalf {
+
+    background: linear-gradient(rgb(122, 119, 120), #BCB0B2, rgb(129, 122, 123));
+
+}
+.bottomList {
+
+    font-size: 15px;
+    margin-left: 10px;
+
+}
+#bottomText {
+    
+    width: 500px;
+    position: relative;
+    left: 268px;
+    bottom: 100px;
+    font-size: 15.5px;
+    
+}
+#bottomHead {
+    
+    color: blue;
+    font-size: 15px;
+
+}
+#bottomPara{
+
+    text-align: center;
+    font-size: 11px;
+    
+}
